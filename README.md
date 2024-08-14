@@ -11,19 +11,18 @@ Welcome to my GitHub profile! I'm Jai Surya K. G., a passionate web developer fr
 ### What I Do
 - **Web Development:** Creating responsive and user-friendly websites.
 - **Personal Projects:** Currently working on various self-initiated projects to enhance my skills.
+- **Job Seeking:** Currently looking for opportunities in web development. Open to full-time roles, internships, and freelance work.
 - **Learning:** I'm always on the lookout for new technologies and methodologies to expand my knowledge.
 - **Reading:** I enjoy reading books, which helps me broaden my perspective and fuel my creativity.
 
 ### Get in Touch
-- **Portfolio:** [Your Portfolio Link]
-- **Medium Blog:** [Your Medium Blog Link]
+
 - **LinkedIn:** [Your LinkedIn Profile]
 - **Instagram:** [Your Instagram Handle]
 - **Twitter:** [Your Twitter Handle]
-
 ---
 
-Feel free to explore my repositories, where I document my learning journey and share the projects I'm working on. I'm open to collaborations and always eager to connect with like-minded individuals. Let's build something amazing together!
+Feel free to explore my repositories, where I document my learning journey and share the projects I'm working on. I'm open to connect with like-minded individuals. Let's build something amazing together!
 
 
 <!--
@@ -39,4 +38,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- **Portfolio:** [Your Portfolio Link]
+- **Medium Blog:** [Your Medium Blog Link]
 -->
