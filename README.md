@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Jai Surya K. G., a passionate web developer fr
 
 ### Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/jaisuryakg/)]
 - **Instagram:** [Your Instagram Handle]
 - **Twitter:** [Your Twitter Handle]
 ---
