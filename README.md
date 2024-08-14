@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Jai Surya K. G.
 
 **🌍 Location:** Tamil Nadu, India  
