@@ -14,6 +14,13 @@ Welcome to my GitHub profile! I'm Jai Surya K. G., a passionate web developer fr
 - **Job Seeking:** Currently looking for opportunities in web development. Open to full-time roles, internships, and freelance work.
 - **Learning:** I'm always on the lookout for new technologies and methodologies to expand my knowledge.
 - **Reading:** I enjoy reading books, which helps me broaden my perspective and fuel my creativity.
+### Skills
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 💻 **JavaScript**
+- 🚀 **Bootstrap**
+- 🗄️ **MySQL**
+
 
 ### Get in Touch
 
